@@ -1,3 +1,7 @@
+##Contributors
+* Festus Ojo
+* Jenelle Maximo
+* Sameen Yassar Khan
 ## Pictual
 
 ### App Description

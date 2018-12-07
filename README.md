@@ -4,6 +4,12 @@
 * Sameen Yassar Khan
 ## Pictual
 
+### Wireframe
+
+
+### Link to Slide Deck 
+https://docs.google.com/presentation/d/17Fz6dCfxI4gY4FzWWJvT1sUJjL43OgP8U5ytbBb2cso/edit#slide=id.p
+
 ### App Description
 As the saying goes, "A picture is worth a thousand words." Pictual is a visual reminder app that reminds users of events or through pictures rather than words!
 

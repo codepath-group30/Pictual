@@ -4,9 +4,6 @@
 * Sameen Yassar Khan
 ## Pictual
 
-### Wireframe
-<img src="https://github.com/codepath-group30/Pictual/blob/master/wireframe.gif" width=200><br>
-
 ### Link to Slide Deck 
 https://docs.google.com/presentation/d/17Fz6dCfxI4gY4FzWWJvT1sUJjL43OgP8U5ytbBb2cso/edit#slide=id.p
 
@@ -24,7 +21,6 @@ As the saying goes, "A picture is worth a thousand words." Pictual is a visual r
 
 ### User Stories
 
-# README Template
 # Product Spec Design: Visual Reminder
 Your [design product spec](https://hackmd.io/SR5ovxoOTQ6cCrvQ33qnGw?edit) (described in that link) will look like the following in your README:
 
@@ -108,9 +104,9 @@ Your [design product spec](https://hackmd.io/SR5ovxoOTQ6cCrvQ33qnGw?edit) (descr
 ---
 
 ### Wireframes
-// TODO: Add Wireframe Images
+<img src="https://github.com/codepath-group30/Pictual/blob/master/wireframe.gif" width=200><br>
 
 ---
 
 ### App Pitch Presentation
-// TODO: Add link to Pitch Presentation Deck
+https://docs.google.com/presentation/d/17Fz6dCfxI4gY4FzWWJvT1sUJjL43OgP8U5ytbBb2cso/edit#slide=id.p

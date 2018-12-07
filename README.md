@@ -5,7 +5,7 @@
 ## Pictual
 
 ### Wireframe
-
+<img src="https://github.com/codepath-group30/Pictual/blob/master/wireframe.gif" width=200><br>
 
 ### Link to Slide Deck 
 https://docs.google.com/presentation/d/17Fz6dCfxI4gY4FzWWJvT1sUJjL43OgP8U5ytbBb2cso/edit#slide=id.p

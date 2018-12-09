@@ -110,4 +110,4 @@ Your [design product spec](https://hackmd.io/SR5ovxoOTQ6cCrvQ33qnGw?edit) (descr
 https://docs.google.com/presentation/d/17Fz6dCfxI4gY4FzWWJvT1sUJjL43OgP8U5ytbBb2cso/edit#slide=id.p
 
 ### App Video for Demo Day
-https://youtu.be/Q1fn-bT-W6E
+<img src="https://youtu.be/Q1fn-bT-W6E><br>
